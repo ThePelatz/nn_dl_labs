@@ -3,7 +3,7 @@ Labs for the course "Neural Networks and Deep Learning" in the Master's Program 
 
 ### Lab 1 | Introduction to Python, NumPy, PyTorch (Completed)
 
-##  Lab 2 | Least Squares with NumPy and PyTorch and classification with PyTorch (TBC)
+###  Lab 2 | Least Squares with NumPy and PyTorch and classification with PyTorch (TBC)
 
 
 
